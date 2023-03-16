@@ -4,4 +4,7 @@ module.exports = {
   rules: {
     'no-console': 2,
   },
+   enc: {
+    browser: true,
+  },
 }
